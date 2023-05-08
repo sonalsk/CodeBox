@@ -3,6 +3,7 @@
 Avoid saving multiple bookmarks and get all your programming websites in one page! 
 
 ![CodeBox](https://user-images.githubusercontent.com/51206050/115509202-c8f40d00-a29b-11eb-9ecd-5a754aa58da7.png)
+<img width="375" alt="Icon" src="https://user-images.githubusercontent.com/51206050/236844415-56438da5-a82c-4baa-bedd-527e16758c35.png">
 
 # Set Up
 
